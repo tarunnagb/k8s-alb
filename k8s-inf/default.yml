@@ -1,3 +1,4 @@
 chart: alb-ingress
 jfrog: https://trial339nmh.jfrog.io/artifactory/helm-charts-dev
-revision: 1.7
+revision: 1.8
+
