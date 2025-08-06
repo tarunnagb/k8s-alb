@@ -1,3 +1,3 @@
 chart: alb-ingress
-jfrog: https://trial339nmh.jfrog.io/artifactory/helm-charts-dev
+jfrog: jfrog-helm         # This must match the name in your secret: jfrog-helm-creds
 revision: 1.5
