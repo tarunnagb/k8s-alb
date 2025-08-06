@@ -1,4 +1,5 @@
 chart: alb-ingress
 jfrog: jfrog-helm-creds        # This must match the name in your secret: jfrog-helm-creds
-revision: 1.5
+revision: 1.7
+
 
