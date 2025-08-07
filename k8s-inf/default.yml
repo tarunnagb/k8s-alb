@@ -1,4 +1,3 @@
 chart: alb-ingress
 jfrog: jfrog-helm
 revision: 1.7
-
